@@ -1,0 +1,15 @@
+1，远程建立配置中心 new registry :ssh 访问地址：https://github.com/lizihong001/microservicecloud-config.git
+
+2，本地通过git命令来上传下载资源文件；
+  
+
+git status  
+
+git clone https://github.com/lizihong001/microservicecloud-config.git
+
+进入目录命令
+cd **/**
+
+pwd 查看当前路径
+
+在创建的目录下手动创建  application.yml, 切记保存要以 utf-8保存文件
